@@ -1,1 +1,11 @@
-golf_API_key
+
+.env                  
+*.key              
+*.pem                 
+
+__pycache__/          # Python cache directory
+*.py[cod]             # Compiled Python files
+
+.ipynb_checkpoints/ 
+
+
